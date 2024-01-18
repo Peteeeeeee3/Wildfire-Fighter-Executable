@@ -1,0 +1,34 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+							Wildfire Fighter - By Peter Farkas
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+CONTROLS 
+(for prototype only)
+
+Keyboard & Mouse:
+	- W -> Rotate nose down
+	- S -> Rotate nose up
+	- A -> Turn left
+	- D -> Turn right
+	- E -> Speed up
+	- Q -> Slow down
+	- Space -> Collect/release water
+	- Tab -> Change level (doesn't work nicely, may need a couple attempts to get down)
+	- Mouse -> Rotate camera
+
+Controller: 
+	- Left stick -> Turn left/right & rotate nose up/down
+	- Right stick -> Rotate camera
+	- Right trigger -> Speed up
+	- Left trigger -> Slow down
+	- A (South button) -> Collect/release water
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+KNOWN BUGS
+
+ - Pressing tab to change levels doesn't work very well. I recommend: Release the button as quickly as possible and try a couple times. Normally it works fine after a few tries.
+ - On Amazon map, randomly ignited fires may ignite within the city, this should realistically not happen, however as there is no level completion or failure implemented in this prototype, this issue doesn't affect gameplay.
